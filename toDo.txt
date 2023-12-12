@@ -1,0 +1,4 @@
+add POST methode
+finish implementing GET parameters
+Move get_header_tipe to another file
+Move other String parsing functions to another file

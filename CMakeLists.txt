@@ -3,4 +3,7 @@ project(webServer C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(webServer main.c)
+add_executable(webServer
+#        main.c
+        server.c
+)
