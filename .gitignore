@@ -1,0 +1,10 @@
+
+#ignore those files
+
+**/images
+
+*.out
+
+*.html
+*.css
+*.js
